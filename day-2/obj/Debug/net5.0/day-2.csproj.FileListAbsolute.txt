@@ -1,0 +1,16 @@
+D:\ngoding\advent of code\2022\day-2\bin\Debug\net5.0\day-2.exe
+D:\ngoding\advent of code\2022\day-2\bin\Debug\net5.0\day-2.deps.json
+D:\ngoding\advent of code\2022\day-2\bin\Debug\net5.0\day-2.runtimeconfig.json
+D:\ngoding\advent of code\2022\day-2\bin\Debug\net5.0\day-2.runtimeconfig.dev.json
+D:\ngoding\advent of code\2022\day-2\bin\Debug\net5.0\day-2.dll
+D:\ngoding\advent of code\2022\day-2\bin\Debug\net5.0\day-2.pdb
+D:\ngoding\advent of code\2022\day-2\obj\Debug\net5.0\day-2.csproj.AssemblyReference.cache
+D:\ngoding\advent of code\2022\day-2\obj\Debug\net5.0\day-2.GeneratedMSBuildEditorConfig.editorconfig
+D:\ngoding\advent of code\2022\day-2\obj\Debug\net5.0\day-2.AssemblyInfoInputs.cache
+D:\ngoding\advent of code\2022\day-2\obj\Debug\net5.0\day-2.AssemblyInfo.cs
+D:\ngoding\advent of code\2022\day-2\obj\Debug\net5.0\day-2.csproj.CoreCompileInputs.cache
+D:\ngoding\advent of code\2022\day-2\obj\Debug\net5.0\day-2.dll
+D:\ngoding\advent of code\2022\day-2\obj\Debug\net5.0\refint\day-2.dll
+D:\ngoding\advent of code\2022\day-2\obj\Debug\net5.0\day-2.pdb
+D:\ngoding\advent of code\2022\day-2\obj\Debug\net5.0\day-2.genruntimeconfig.cache
+D:\ngoding\advent of code\2022\day-2\obj\Debug\net5.0\ref\day-2.dll

@@ -13,11 +13,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "D:\\ngoding\\advent of code\\2022\\day-1\\test.csproj",
-      "projectName": "test",
-      "projectPath": "D:\\ngoding\\advent of code\\2022\\day-1\\test.csproj",
+      "projectUniqueName": "D:\\ngoding\\advent of code\\2022\\day-2\\day-2.csproj",
+      "projectName": "day-2",
+      "projectPath": "D:\\ngoding\\advent of code\\2022\\day-2\\day-2.csproj",
       "packagesPath": "C:\\Users\\asus\\.nuget\\packages\\",
-      "outputPath": "D:\\ngoding\\advent of code\\2022\\day-1\\obj\\",
+      "outputPath": "D:\\ngoding\\advent of code\\2022\\day-2\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\asus\\AppData\\Roaming\\NuGet\\NuGet.Config",

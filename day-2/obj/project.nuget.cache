@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "Gb8ppSi+T+CHnGS7SbKdMJXbPKraa9vK+n1jSeGVZjo4audr3goZDvb0pEiuUR/AkZmmIGZVccqUSVmtV85kFQ==",
+  "dgSpecHash": "97/pZL+lZB0vkCQtWO9vmtL6q5XFSDj12NUX27j5l/pi4zN7NcCu5Yj6d3+kxKGABf1q36xcLpmF4oxgyaOdYA==",
   "success": true,
-  "projectFilePath": "D:\\ngoding\\advent of code\\2022\\day-1\\test.csproj",
+  "projectFilePath": "D:\\ngoding\\advent of code\\2022\\day-2\\day-2.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\asus\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\5.0.17\\microsoft.netcore.app.host.win-x64.5.0.17.nupkg.sha512"
   ],
